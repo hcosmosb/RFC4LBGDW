@@ -1,9 +1,11 @@
 # RFC4LBGDW
 
 This project contains the IGM Lyα tranmission dataset from the CoDa II simulation and a pipeline to build a Random Forest Classier. When you use this model in your paper, please cite the following papers.
-[1] Main paper for this model
+
+[1] Main paper for this model  
 https://ui.adsabs.harvard.edu/abs/2024arXiv241007377P/abstract
-[2] CoDa II simulation paper
+
+[2] CoDa II simulation paper  
 https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.4087O/abstract
 
 ## File list
