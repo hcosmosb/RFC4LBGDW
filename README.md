@@ -13,8 +13,10 @@ https://www.dropbox.com/scl/fi/3ntxcnijwua1i0v1834kw/RFC4LBGDW_input_data.npy?rl
 3. sig_a_app.py
 Python function for calculating the Lyα cross section. 
 
-4-1. hlsp_jades_jwst_nirspec_goods-n-mediumhst-00003991_clear-prism_v1.0_x1d.fits
-4-2. hlsp_jades_jwst_nirspec_goods-n-mediumjwst-00005591_clear-prism_v1.0_x1d.fits
-JWST spectra for GN-z11 for an example calculation. 
+4. hlsp_jades_jwst_nirspec_goods-n-mediumhst-00003991_clear-prism_v1.0_x1d.fits
+First JWST spectrum of GN-z11 for an example calculation. 
+
+5. hlsp_jades_jwst_nirspec_goods-n-mediumjwst-00005591_clear-prism_v1.0_x1d.fits
+Scond JWST spectrum of GN-z11 for an example calculation. 
 
 
